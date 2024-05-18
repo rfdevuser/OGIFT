@@ -1,1 +1,1 @@
-# OGIFT
+npm i sharp for image optimization
